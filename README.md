@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  <img alt="Formulário de registro Skambo" src=".github/preview.png" width="100%">
+  <img alt="Formulário de registro Skambo" src=".github/preview.PNG" width="100%">
 </p>
 
 ## 🚀 Tecnologias
